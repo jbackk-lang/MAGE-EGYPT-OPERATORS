@@ -1,5 +1,14 @@
+## Dokumentacja online
+https://jbackk-lang.github.io/
+TIMDR + Λ–τ–ρ na danych 
+
 # MAGE-EGYPT-OPERATORS
 Interpretacja egipskich zanków operacyjnych
+
+
+![egiTab](https://raw.githubusercontent.com/jbackk-lang/MAGE-EGYPT-OPERATORS/main/egiTab.png)
+
+
 # MAGE‑EGYPT‑OPERATORS
 Formalizacja najstarszych egipskich znaków operacyjnych (Nagada III, Abydos, Gerzeh)
 w języku Λ–τ–ρ (TIMDER).

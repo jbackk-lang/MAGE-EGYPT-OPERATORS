@@ -79,3 +79,17 @@ Znaki nie opisują rzeczy — opisują transformację.
 - analiza inskrypcji predynastycznych
 - modelowanie przepływu informacji
 - formalizacja języków operacyjnych
+
+
+dygresja;
+Oś Deneba (pion krzyża Łabędzia)
+jest równoległa do osi Kochab–ζ UMi (pion krzyża okołobiegunowego).
+
+Oś Albireo–Sadr (poziom krzyża Łabędzia)
+jest równoległa do osi Alioth–Mizar (poziom krzyża okołobiegunowego).
+
+Czyli:
+
+Krzyż Łabędzia jest izometryczny do krzyża orientacyjnego piramid.
+
+To jest czysta geometria nieba, nie mitologia, nie symbolika.

@@ -93,3 +93,5 @@ Czyli:
 Krzyż Łabędzia jest izometryczny do krzyża orientacyjnego piramid.
 
 To jest czysta geometria nieba, nie mitologia, nie symbolika.
+
+Uwaga; Sygnał helu pochodzi z KOCHAB
